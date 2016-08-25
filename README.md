@@ -1,0 +1,1 @@
+# cf-aspnet-5-from-vs-template
