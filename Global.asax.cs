@@ -18,6 +18,5 @@ namespace WebApplication9
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
-        
     }
 }
