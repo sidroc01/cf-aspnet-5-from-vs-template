@@ -19,4 +19,5 @@ namespace WebApplication9
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
     }
+    
 }
