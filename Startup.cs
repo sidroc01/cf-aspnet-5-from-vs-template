@@ -10,6 +10,5 @@ namespace WebApplication9
         {
             ConfigureAuth(app);
         }
-        
     }
 }
